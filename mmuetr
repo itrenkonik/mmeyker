@@ -1,0 +1,408 @@
+                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure                                         # принимает типы параметров
+   def closure(func):                       
+       name = func.__name__                 # получаем имя функции
+       fr = sys._getframe(1).f_locals.get(name,Resolver(name)) 
+                                            # опускаемся на один шаг вниз по стеку и находим
+                                            # локальную переменную с именем функции
+                                            # если же ее нет, то используем новый 
+                                            # Resolver-объект
+       fr.function_map[dt] = func           # добавляем новую функцию к словарю 
+                                            # разрешения вызовов
+       return fr                             
+   return closure
